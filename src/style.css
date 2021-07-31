@@ -1,0 +1,25 @@
+* {
+    font-family: "Open Sans", sans-serif;
+    background-color: #121212;
+    color: white;
+}
+
+.textbox {
+    font-size: 2rem;
+    padding: 0.8rem;
+    outline: 0.2rem solid rgb(10, 59, 221);
+    border-style: none;
+}
+
+button {
+    padding: 0.8rem;
+    outline: 0.2rem solid rgb(10, 59, 221);
+    border-style: none;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+a {
+    display: block;
+    margin-bottom: 1rem;
+}
