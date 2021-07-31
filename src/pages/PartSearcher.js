@@ -28,7 +28,7 @@ export default function PartsChecker() {
     };
 
     return (
-        <div>
+        <div className="container">
             <h1>PC Component</h1>
             <input name="searchfor" value={searchText} className="textbox" type="text" onChange={handleOnChange} />
             <button onClick={() => setSearchText("")}>Clear</button>
