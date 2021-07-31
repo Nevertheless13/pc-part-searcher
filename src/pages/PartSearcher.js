@@ -29,7 +29,7 @@ export default function PartsChecker() {
 
     return (
         <div className="container">
-            <h1>PC Component</h1>
+            <h1>Search for any PC part</h1>
             <input name="searchfor" value={searchText} className="textbox" type="text" onChange={handleOnChange} />
             <button onClick={() => setSearchText("")}>Clear</button>
             <ShopLink searchText={searchText} shopName="Dynaquest" />
