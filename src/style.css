@@ -9,13 +9,13 @@ div.container {
 }
 
 .textbox {
-    padding: 0.8rem;
+    padding: 0.5rem;
     outline: 0.2rem solid rgb(10, 59, 221);
     border-style: none;
 }
 
 button {
-    padding: 0.8rem;
+    padding: 0.5rem;
     outline: 0.2rem solid rgb(10, 59, 221);
     border-style: none;
     margin: 1rem;
